@@ -42,7 +42,7 @@ Explores **object-oriented principles** in depth and introduces **relational dat
   - Core OOP principles: Encapsulation, Abstraction, Inheritance, Polymorphism
   - Using objects and classes in JavaScript
   - Basic data modeling concepts and SQL relationships (e.g., one-to-many)
-- 🧠 Assignment included in folder (embedded in the README)
+- 🧠 Assignment included in folder (coming soon or embedded in the README)
 
 ---
 
